@@ -1,8 +1,8 @@
 package org.binary.search;
 
 public class BSearch {
-    public int arr[] = {3, 4, 5, 6, 7, 8, 9};
-    public int result = 7;
+    public int arr[] = {3, 4, 5, 6, 7, 8, 9, 15};
+    public int result = 15;
 
     public void showMessage() {
         int lLimit = 0; // 0
